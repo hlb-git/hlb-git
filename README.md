@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 About Me  <br><br>🌟 Hi there! I'm a **Software Engineer** with a passion for solving real-world problems through technology.  <br>🐧 A proud **Linux enthusiast**, I enjoy tinkering with Linux setups to boost productivity.<br> 🌍 I’m passionate about building projects that make a difference.<br>☁️ I'm deeply interested in **Cloud Computing** and enjoy working with tools like **Docker** and **Kubernetes** to deploy scalable applications.  <br>💡 Always eager to learn, I thrive on building systems that are both efficient and impactful.  <br><br>
+# 👋 About Me 💫 :
+<br><br>🌟 Hi there! I'm a **Software Engineer** with a passion for solving real-world problems through technology.  <br>🐧 A proud **Linux enthusiast**, I enjoy tinkering with Linux setups to boost productivity.<br> 🌍 I’m passionate about building projects that make a difference.<br>☁️ I'm deeply interested in **Cloud Computing** and enjoy working with tools like **Docker** and **Kubernetes** to deploy scalable applications.  <br>💡 Always eager to learn, I thrive on building systems that are both efficient and impactful.  <br><br>
 
 
 ## 🌐 Socials:
