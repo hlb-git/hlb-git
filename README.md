@@ -1,5 +1,5 @@
 # 👋 About Me 💫 :
-<br><br>🌟 Hi there! I'm a **Software Engineer** with a passion for solving real-world problems through technology.  <br>🐧 A proud **Linux enthusiast**, I enjoy tinkering with Linux setups to boost productivity.<br> 🌍 I’m passionate about building projects that make a difference.<br>☁️ I'm deeply interested in **Cloud Computing** and enjoy working with tools like **Docker** and **Kubernetes** to deploy scalable applications.  <br>💡 Always eager to learn, I thrive on building systems that are both efficient and impactful.  <br><br>
+<br><br>🌟 Hi there! I'm a **Software Engineer** with a passion for solving real-world problems through technology.  <br>🐧 A proud **Linux enthusiast**, I enjoy tinkering with Linux setups to boost productivity.<br> 🌍 I’m passionate about building projects that make a difference.<br>☁️ I'm deeply interested in **Cloud Computing** and enjoy working with tools like **Docker** to deploy scalable applications.  <br>💡 Always eager to learn, I thrive on building systems that are both efficient and impactful.  <br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/love-omoseebi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xHLB) 
@@ -10,6 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=hlb-git&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hlb-git&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hlb-git&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hlb-git)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hlb-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
