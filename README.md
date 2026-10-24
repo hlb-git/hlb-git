@@ -1,5 +1,10 @@
 # 👋 About Me 💫 :
-<br><br>🌟 Hi there! I'm a **Software Engineer** with a passion for solving real-world problems through technology.  <br>🐧 A proud **Linux enthusiast**, I enjoy tinkering with Linux setups to boost productivity.<br> 🌍 I’m passionate about building projects that make a difference.<br>☁️ I'm deeply interested in **Cloud Computing** and enjoy working with tools like **Docker** to deploy scalable applications.  <br>💡 Always eager to learn, I thrive on building systems that are both efficient and impactful.  <br><br>
+<br><br>
+🛡️ Hi there! I'm a <b>Security Engineer</b> who secures multi-cloud environments (AWS, Azure, OCI).<br>
+🔍 I run vulnerability management and compliance work with Nessus, AWS Security Hub, and GuardDuty. CVSS-based prioritization helped me cut critical and high-risk findings by 12%.<br>
+⚙️ I build DevSecOps automation with Jenkins, Terraform, Docker, and Bash. One pipeline cut deployment time from tens of minutes to under 3.<br>
+🐧 I'm a <b>Linux</b> person at heart. My Programming, Networking and Offensive Security background helps me find real attack paths and confirm every fix holds.<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/love-omoseebi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xHLB) 
